@@ -38,7 +38,7 @@
 remote: Permission to DispositivosHome/prueba3105.git denied to JavierPaniagua.
 fatal: unable to access 'https://github.com/DispositivosHome/prueba3105.git/': The requested URL returned error: 403
 
-### Pasos
+### Pasos Configuracion Global
 1.  
     git config --global user.name
     git config --global user.email
